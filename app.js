@@ -1,6 +1,6 @@
 App({  
 
-  var a;
+  var a ,b;
   onLaunch: function () {
     console.log('App Launch')
   },
